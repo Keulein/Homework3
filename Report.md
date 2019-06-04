@@ -48,7 +48,7 @@ $ nano formatter_ex.cpp
 ```
 $ cmake . $ make $ cd .. $ git add . $ git commit -m "Создание библиотеки formatter_exlib" $ git push origin master
 ```
-## Задание 33
+## Задание 3
 ```
 Cmakelists.txt
 cmake_minimum_required(VERSION 3.4) #solver_lib
